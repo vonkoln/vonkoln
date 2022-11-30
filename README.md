@@ -1,3 +1,5 @@
+Olá, vamos entrando, quer um café, uma água com gás? Meu nome é Bruno e sou um entusiasta do desenvolvimento, eu sei quem é Gustavo Guanabara e Filipe Deschamps. Me arrisco a dizer que Tim Berners-Lee e Alan Turing são mais interessantes que Gates e Jobs. Ao ler o livro da história de Larry Page e Sergey Brin vi que definitivamente eu tinha certeza por onde estava entrando. Então quer dizer que sou um profissional hoje? Não. A vida não é uma linha reta. Eu já fui frentista, vendedor, dealer de poker e pretendo fazer muito com bons projetos. Eu sou o Silício, minha meta é o cume, modestia zero. Como dizem no poker:<b> Vamooooooooooooooooooooooooooooooooooooooooo filho!</b>
+
 <div align="center">
   <a href="https://github.com/vonkoln">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonkoln&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
