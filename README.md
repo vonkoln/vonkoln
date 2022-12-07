@@ -10,6 +10,7 @@ Olá, vamos entrando, quer um café, uma água com gás? Meu nome é Bruno e sou
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bruno-Py" height="30" width="40" src="https://icons8.com.br/icon/13441/python">    
   </div>
 
   <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/4c5a9eeb1036d7ede4d31b8df4233b03.gif" height="150"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
