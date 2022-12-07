@@ -1,5 +1,6 @@
-<b>“No meu sonho, você segue as minhas regras.”!</b>
-
+<div align="center">
+<b>No meu sonho, você segue as minhas regras!</b>
+</div>
 <div align="center">
   <a href="https://github.com/vonkoln">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonkoln&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
