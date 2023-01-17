@@ -28,7 +28,7 @@
     </a> 
   </div>
  
-    ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
  
-    ![Snake animation](https://github.com/vonkoln/vonkoln/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vonkoln/vonkoln/blob/output/github-contribution-grid-snake.svg)
 </div>
