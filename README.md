@@ -1,10 +1,11 @@
-<div align="center">
-<b>No meu sonho, você segue as minhas regras!</b>
-</div>
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/vonkoln">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonkoln&show_icons=true&theme=dark&include_all_commits=true&count_private=tru](https://github-readme-stats.vercel.app/api?username=vonkolna&show_icons=true&theme=transparent"/>
 </div>
+ 
+    
+    
+  
 <div style="display: inline_block"><br>
   <div align="center">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,8 +14,7 @@
  <img align="center" alt="Bruno-Py" height="30" width="40" src="https://raw.githubusercontent.com/vonkoln/vonkoln/main/icons8-python.svg">      
   </div>
 
-  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/4c5a9eeb1036d7ede4d31b8df4233b03.gif" height="150"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
- </a>
+ 
   ##
  
 <div> 
@@ -26,9 +26,9 @@
      <a href="https://www.youtube.com/channel/UCrsb-Ems4jYiWx8dyeaLfMA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a> 
+     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
   </div>
- <div align="center>
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
- </div>
+  
+ 
   ![Snake animation](https://github.com/vonkoln/vonkoln/blob/output/github-contribution-grid-snake.svg)
 </div>
