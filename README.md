@@ -26,9 +26,9 @@
      <a href="https://www.youtube.com/channel/UCrsb-Ems4jYiWx8dyeaLfMA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a> 
-     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
+     
   </div>
-  
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrsb-Ems4jYiWx8dyeaLfMA?style=social)
  
   ![Snake animation](https://github.com/vonkoln/vonkoln/blob/output/github-contribution-grid-snake.svg)
 </div>
