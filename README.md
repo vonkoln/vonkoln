@@ -1,5 +1,6 @@
 <div align="center" style="display: flex">
   <a href="https://github.com/vonkoln">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonkoln&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vonkoln&show_icons=true&theme=dark&include_all_commits=true&count_private=tru](https://github-readme-stats.vercel.app/api?username=vonkolna&show_icons=true&theme=transparent"/>
 </div>
  
